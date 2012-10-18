@@ -1,0 +1,27 @@
+[
+
+	// Example for snippet key bind
+    // { "keys": ["super+shift+i"], "command": "insert_snippet", "args": {"name": "Packages/User/some_snippet.sublime-snippet" }}
+
+	// Delete Trailing Spaces
+	{ "keys": ["command+alt+backspace"], "command": "delete_trailing_spaces" },
+
+	// PHP Sniffer
+	{ "keys": ["command+alt+p"], "command": "phpcs_sniff_this_file" },
+
+	// Lint
+    { "keys": ["command+alt+l"], "command": "sublimelinter", "args": {"action": "lint"} },
+
+    // Alignment
+    { "keys": ["command+alt+["], "command": "alignment" },
+
+    // Abacus Alignment
+    { "keys": ["command+alt+]"], "command": "abacus" },
+
+    // SVN
+    { "keys": ["command+alt+c"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "SVN: "} },
+
+    // Command Palette
+    { "keys": ["command+`"], "command": "show_overlay", "args": {"overlay": "command_palette"} }
+
+]

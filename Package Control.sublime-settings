@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": 1350582820,
+	"installed_packages":
+	[
+		"Abacus",
+		"Alignment",
+		"alternative_autocompletion",
+		"AutoFileName",
+		"Bracketeer",
+		"BracketHighlighter",
+		"DetectSyntax",
+		"DocBlockr",
+		"FavoriteFiles",
+		"Git",
+		"Goto-CSS-Declaration",
+		"HTML5",
+		"jQuery",
+		"LiveReload",
+		"Package Control",
+		"Phpcs",
+		"Prefixr",
+		"Sass",
+		"Search Stack Overflow",
+		"SFTP",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Sublime-HTMLPrettify",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SVN",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"zenburn",
+		"ZenCoding"
+	]
+}
